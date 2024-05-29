@@ -1,4 +1,4 @@
-﻿Entry,Reviewed,EntryName,Proteinnames,GeneNames,Organism,Length
+﻿Entry,Reviewed,EntryName,ProteinNames,GeneNames,Organism,Length
 A0A1U8QWA2,reviewed,ATR12_EMENI,Glycine betaine reductase ATRR (Nonribosomal peptide synthetase-like protein ATRR) [Includes: Carboxylic acid reductase (EC 1.2.1.-); Aldehyde reductase (EC 1.1.1.-)],ATRR AN5318 ANIA_05318,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans),1270
 A2RVM0,reviewed,TIC32_ARATH,"Short-chain dehydrogenase TIC 32, chloroplastic (EC 1.1.1.-) (Translocon at the inner envelope membrane of chloroplasts 32) (AtTIC32)",TIC32 At4g23430 F16G20.130,Arabidopsis thaliana (Mouse-ear cress),322
 A4ECA9,reviewed,HSDHB_COLAA,7beta-hydroxysteroid dehydrogenase (7beta-HSDH) (EC 1.1.1.201) (NADP-dependent 7beta-hydroxysteroid dehydrogenase),COLAER_02088,Collinsella aerofaciens (strain ATCC 25986 / DSM 3979 / JCM 10188 / KCTC 3647 / NCTC 11838 / VPI 1003),263
